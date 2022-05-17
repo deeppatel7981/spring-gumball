@@ -29,28 +29,19 @@
 ## CI-Workflow-6
 <img width="1440" alt="CI-Workflow-6" src="https://user-images.githubusercontent.com/48741240/168725739-86333030-2ab0-42a2-87f7-67e00c151883.png">
 
-## Create-ingress
-<img width="1440" alt="Create-ingress" src="https://user-images.githubusercontent.com/48741240/168725743-c955ce29-d283-4d1a-bedb-b371584f419f.png">
-
-## Github-SecretsActions
-<img width="1440" alt="Github-SecretsActions" src="https://user-images.githubusercontent.com/48741240/168725747-ec970671-731e-4f24-a337-4bbefc1fd41c.png">
-
-## ingress
-<img width="1440" alt="ingress" src="https://user-images.githubusercontent.com/48741240/168725751-4d9838ae-d606-45f2-8901-3671bd3ca21f.png">
-
-## proof-of-success
-<img width="1440" alt="proof-of-success" src="https://user-images.githubusercontent.com/48741240/168725755-a6ac6eef-0da3-4799-b80c-e1e45e022f65.png">
-
 ## release-trigger
 <img width="1440" alt="release-trigger" src="https://user-images.githubusercontent.com/48741240/168725756-aedc500c-b6fc-4784-8adf-274499b1b59a.png">
 
 ## release-trigger-overview
 <img width="1440" alt="release-trigger-overview" src="https://user-images.githubusercontent.com/48741240/168725759-8a79065e-d0a5-49f6-9962-acd2f7a75a5e.png">
 
-## SA
+## Github-SecretsActions
+<img width="1440" alt="Github-SecretsActions" src="https://user-images.githubusercontent.com/48741240/168725747-ec970671-731e-4f24-a337-4bbefc1fd41c.png">
+
+## Service Account
 <img width="556" alt="SA" src="https://user-images.githubusercontent.com/48741240/168725762-0900b705-ad54-4ea6-91a8-7838ee8e6bc6.png">
 
-## SA-Key
+## Service Account - Key
 <img width="1440" alt="SA-Key" src="https://user-images.githubusercontent.com/48741240/168725766-a81b2206-c9c8-4346-a090-7ed3040b0ac8.png">
 
 ## Services
@@ -58,3 +49,21 @@
 
 ## Workloads
 <img width="1440" alt="Workloads" src="https://user-images.githubusercontent.com/48741240/168725772-803ba0bd-f757-48f6-9f9d-af9827593c1d.png">
+
+## Create-ingress
+<img width="1440" alt="Create-ingress" src="https://user-images.githubusercontent.com/48741240/168725743-c955ce29-d283-4d1a-bedb-b371584f419f.png">
+
+## ingress
+<img width="1440" alt="ingress" src="https://user-images.githubusercontent.com/48741240/168725751-4d9838ae-d606-45f2-8901-3671bd3ca21f.png">
+
+## proof-of-success
+<img width="1440" alt="proof-of-success" src="https://user-images.githubusercontent.com/48741240/168725755-a6ac6eef-0da3-4799-b80c-e1e45e022f65.png">
+
+# Journal 
+
+I took about 6/7 hours to complete this lab. To document this lab and the personal experiences faced during this lab goes as below. 
+
+* The first step was to create the CI workflow which was pretty straightforward and I was able to complete it within 30 minutes.
+* Secondly I was asked to create google.yml, docker-compose.yml, etc. which were straightforward as well
+* When creating the IAM on google cloud platform, I had the confusion on assigning the role to that Service created. 
+* Tbh lab was pretty straightforward if followed rightly. I had times when i had to redo everything again to make it correct.
